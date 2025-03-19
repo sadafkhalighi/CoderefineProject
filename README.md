@@ -1,4 +1,5 @@
 # CoderefineProject
 practicing remote work-day1 workshop
 sjfoigjs
-https://shields.io/badges/badge/add_these-static-blue
+
+https://img.shields.io/badge/add_these-static-blue
